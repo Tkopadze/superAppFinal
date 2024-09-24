@@ -57,11 +57,8 @@ function handleLogin(event) {
             }
           });
         } else {
-          alert("Please verify your email before logging in.");
           sendEmailVerification(user)
-            .then(() => {
-              alert("Verification email sent!");
-            })
+            .then(() => {})
             .catch((error) => {
               console.error("Error sending verification email:", error.message);
             });
@@ -156,7 +153,6 @@ facebookButton.addEventListener("click", function (event) {
       const credential = FacebookAuthProvider.credentialFromError(error);
 
       console.error("Error signing in with Facebook:", errorMessage);
-      alert("Error: " + errorMessage);
     });
 });
 
@@ -186,7 +182,6 @@ googleButton.addEventListener("click", function (event) {
       // Handle errors here.
       const errorCode = error.code;
       const errorMessage = error.message;
-      alert(`Error: ${errorMessage}`);
     });
 });
 
@@ -242,9 +237,6 @@ document
       document.getElementById("verification-code-input").focus();
 
       // Optionally, display a message to the user
-      alert(
-        "A verification code has been sent to your email. Please check and enter it below."
-      );
     } catch (error) {
       errorMessageElement.style.display = "block";
       errorMessageElement.textContent = error.message;
@@ -266,7 +258,6 @@ document
       document.getElementById("verification-code-popup").style.display = "none";
       document.getElementById("new-password-popup").style.display = "flex";
     } else {
-      alert("Incorrect verification code. Please try again.");
     }
   });
 
@@ -282,7 +273,6 @@ document
       // In a real application, reset the password in the database or with Firebase Auth
       console.log(`Password reset for ${window.resetEmail}`);
 
-      alert("Password has been reset successfully!");
       document.getElementById("new-password-popup").style.display = "none";
 
       // Clear stored data
@@ -472,7 +462,6 @@ function handleLogout() {
     .catch((error) => {
       // An error happened.
       console.error("Error logging out:", error.message);
-      alert("Error logging out: " + error.message);
     });
 }
 
