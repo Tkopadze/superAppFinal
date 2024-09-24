@@ -1,0 +1,34 @@
+[
+    {
+    "imageURL":"assets/img/Image1.png",
+    "name":"Oslo Wooden Armchair",
+    "desc":"ეზოს სავარძელი",
+    "price":"250.00 ₾",
+    "startPrice": "",
+    "discount": ""
+    },
+    {
+        "imageURL":"assets/img/Image2.png",
+        "name":"JONATHAN Table Lamp",
+        "desc":"მაგიდის სანათი",
+        "price": "89.00 ₾",
+        "startPrice": "",
+        "discount": ""
+    },
+    {
+        "imageURL":"assets/img/Image3.png",
+        "name":"Koopman",
+        "desc":"სურათის ჩარჩო",
+        "price": "450.00 ₾",
+        "startPrice": "",
+        "discount": ""
+    },
+    {
+        "imageURL":"assets/img/Image4.png",
+        "name":"Seville Classics სათავსო",
+        "desc":"ორგანაიზერი",
+        "price": "188.93 ₾",
+        "startPrice": "269.00 ₾",
+        "discount": "-50%"
+    }
+]

@@ -1,0 +1,94 @@
+{
+  "containers": [
+    {
+      "id": 1,
+      "imageSrc": "./assets/categoryIcons/laptop.svg",
+      "imageAlt": "ტექნიკა",
+      "text": "ტექნიკა"
+    },
+    {
+      "id": 2,
+      "imageSrc": "./assets/categoryIcons/baby.svg",
+      "imageAlt": "ბავშვის მოვლა",
+      "text": "ბავშვის მოვლა"
+    },
+    {
+      "id": 3,
+      "imageSrc": "./assets/categoryIcons/vector (14).svg",
+      "imageAlt": "სახლი & მოვლა",
+      "text": "სახლი & მოვლა"
+    },
+    {
+      "id": 4,
+      "imageSrc": "./assets/categoryIcons/mdi_lipstick.svg",
+      "imageAlt": "თავის მოვლა",
+      "text": "თავის მოვლა"
+    },
+    {
+      "id": 5,
+      "imageSrc": "./assets/categoryIcons/material-symbols_toys.svg",
+      "imageAlt": "სათამაშოები",
+      "text": "სათამაშოები"
+    },
+    {
+      "id": 6,
+      "imageSrc": "./assets/categoryIcons/carbon_bottles-01.svg",
+      "imageAlt": "ბარი & სხვა",
+      "text": "ბარი & სხვა"
+    },
+    {
+      "id": 7,
+      "imageSrc": "./assets/categoryIcons/game-icons_party-hat.svg",
+      "imageAlt": "წვეულება",
+      "text": "წვეულება"
+    },
+    {
+      "id": 8,
+      "imageSrc": "./assets/categoryIcons/vector (15).svg",
+      "imageAlt": "წიგნები",
+      "text": "წიგნები"
+    },
+    {
+      "id": 9,
+      "imageSrc": "./assets/categoryIcons/maki_fitness-centre.svg",
+      "imageAlt": "ფიტნესი",
+      "text": "ფიტნესი"
+    },
+    {
+      "id": 10,
+      "imageSrc": "./assets/categoryIcons/vector (16).svg",
+      "imageAlt": "ცხოველების მოვლა",
+      "text": "ცხოველების მოვლა"
+    },
+    {
+      "id": 11,
+      "imageSrc": "./assets/categoryIcons/vector (17).svg",
+      "imageAlt": "დასვენება & მოგზაურობა",
+      "text": "დასვენება & მოგზაურობა"
+    },
+    {
+      "id": 12,
+      "imageSrc": "./assets/categoryIcons/akar-icons_health.svg",
+      "imageAlt": "ჯანმრთელობა",
+      "text": "ჯანმრთელობა"
+    },
+    {
+      "id": 13,
+      "imageSrc": "./assets/categoryIcons/raphael_pensil.svg",
+      "imageAlt": "საკანცელარიო ნივთები",
+      "text": "საკანცელარიო ნივთები"
+    },
+    {
+      "id": 14,
+      "imageSrc": "./assets/categoryIcons/ri_tools-fill.svg",
+      "imageAlt": "რემონტი & ხელსაწყოები",
+      "text": "რემონტი & ხელსაწყოები"
+    },
+    {
+      "id": 15,
+      "imageSrc": "./assets/categoryIcons/vector (19).svg",
+      "imageAlt": "ავტომობილი",
+      "text": "ავტომობილი"
+    }
+  ]
+}

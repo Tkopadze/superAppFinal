@@ -1,0 +1,20 @@
+[
+  {
+    "backgroundColor": "#FFE393",
+    "photo": "./assets/icons/pool.svg",
+    "name": "გასაბერი აუზი",
+    "icon": "./assets/arrow.svg"
+  },
+  {
+    "backgroundColor": "#E7D1EE",
+    "photo": "./assets/icons/pool2.svg",
+    "name": "კარკასული აუზი",
+    "icon": "./assets/arrow.svg"
+  },
+  {
+    "backgroundColor": "#D8E4C2",
+    "photo": "./assets/icons/PinkAccessory.svg",
+    "name": "აუზის აქსესუარები",
+    "icon": "./assets/arrow.svg"
+  }
+]

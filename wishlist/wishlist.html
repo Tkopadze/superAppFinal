@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="wishlist.css" />
+    <script src="wishlist.js" defer></script>
+    <title>Super App</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="header-top">
+        <a href="../index.html" class="header-logo">ShopEasy</a>
+        <div class="search-container">
+          <input type="text" placeholder="ძიება" />
+          <img
+            src="../assets/icons/searchIcon.svg"
+            alt="Search Icon"
+            class="search-icon"
+          />
+        </div>
+        <div class="bag-container">
+          <img
+            src="../assets/icons/icon-shopping-cart.svg"
+            alt="Shopping Bag"
+          />
+          <div class="notification-badge">5</div>
+        </div>
+        <div class="favorites-container">
+          <a href="wishlist.html">
+            <img src="../assets/icons/favourites.svg" alt="Favorites" />
+          </a>
+        </div>
+        <button class="button auth-button" id="open-popup-btn">
+          ჩემი პროფილი
+        </button>
+      </div>
+      <div class="categories-section">
+        <div class="burger-menu-container">
+          <button class="burger-menu" id="burgerMenuBtn">
+            <a href="../allCategories/index.html">
+              <img src="./assets/icons/burgerIcon.svg" alt="burger menu" />
+            </a>
+          </button>
+          <span class="all-categories-text">ყველა კატეგორია</span>
+        </div>
+        <!-- <button class="slider-nav left" id="left-arrow">
+            <img src="../assets/icons/leftVector.svg" alt="left arrow" />
+          </button> -->
+        <div class="categories-slider" id="categories-slider">
+          <div class="categories-container">
+            <ul class="categories-list">
+              <li class="category-item">
+                <a href="../Children's nutrition/index.html">ფასდაკლება</a>
+              </li>
+              <li class="category-item">
+                <a href="../productsPage/products.html">ტექნიკა</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">ბავშვის მოვლა</a>
+              </li>
+              <li class="category-item">
+                <a href="./productsPage/products.html">სახლი & მოვლა</a>
+              </li>
+              <li class="category-item">
+                <a href="./productsPage/products.html">თავის მოვლა</a>
+              </li>
+              <li class="category-item">
+                <a href="./productsPage/products.html">სათამაშოები</a>
+              </li>
+              <li class="category-item">
+                <a href="./productsPage/products.html">ფიტნესი</a>
+              </li>
+            </ul>
+          </div>
+          <button class="slider-nav right" id="right-arrow">
+            <img src="../assets/icons/rightVector.svg" alt="right arrow" />
+          </button>
+        </div>
+      </div>
+    </header>
+    <hr class="headerLine" />
+    <main>
+      <div class="mobileBox">
+        <div class="mobileBox1">
+          <img src="img/icon-chevron-left.svg" alt="Icon" id="backToIndex" />
+          <h6>ფავორიტები</h6>
+          <img src="img/Button.svg" alt="buttonClose" id="backToIndexClose" />
+        </div>
+        <hr class="mobileBoxLine" />
+      </div>
+
+      <section>
+        <h3>ფავორიტები</h3>
+        <div class="wishlistBox">
+          <img
+            src="img/Frame 420.svg"
+            alt="wishlistImg"
+            class="wishlistEmptyImg"
+          />
+          <h1>ფავორიტები ცარიელია</h1>
+          <p>
+            თქვენი სურვილების სია ჯერჯერობით ცარიელია, დაამატე პროდუქტები თქვენს
+            ფავორიტებს.
+          </p>
+          <a href="../index.html"
+            ><button type="button" class="wishlistBtn">
+              მთავარ გვერდზე დაბრუნება
+            </button></a
+          >
+        </div>
+      </section>
+    </main>
+    <hr class="line" />
+    <footer>
+      <div class="landingfooter">
+        <ul>
+          <li>დახმარება</li>
+          <li>
+            <a href="../product Page - Product/index.html">მესიჯის მიწერა</a>
+          </li>
+          <li><a href="Children's nutrition2/">შეფასება</a></li>
+          <li><a href="../QA_Page/indexQA.html">ხშირად დასმული კითხვები</a></li>
+          <li><a href="">განვადებით შეძენა</a></li>
+          <li><a href="">მისამართები</a></li>
+        </ul>
+
+        <ul>
+          <li>წესები & პირობები</li>
+          <li><a href="">ვერიფიკაცია</a></li>
+          <li><a href="">კონფიდენციალურობა</a></li>
+          <li><a href="">უსაფრთხოების წესები</a></li>
+          <li><a href="">საიტის წესები</a></li>
+        </ul>
+
+        <ul>
+          <li>ჩვენს შესახებ</li>
+          <li><a href="">ვინ ვართ ჩვენ</a></li>
+          <li><a href="../BlogPage/blog.html">ბლოგი</a></li>
+          <li><a href="">გაყიდე ჩვენთან</a></li>
+        </ul>
+
+        <ul>
+          <li>დაგვიკავშირდი</li>
+          <li>
+            <a href="tel:+406555-0120"
+              ><img
+                src="../assets/footerIMG/Vector.svg"
+                alt="phone"
+              />&nbsp;&nbsp;(406) 555-0120</a
+            >
+          </li>
+          <li>
+            <a href="mailto:support@shopeasy.com"
+              ><img
+                src="../assets/footerIMG/Group.svg"
+                alt="mail"
+              />&nbsp;&nbsp;support@shopeasy.com</a
+            >
+          </li>
+          <li class="contactIcon">
+            <a href="https://www.facebook.com/" target="_blank"
+              ><img
+                src="../assets/footerIMG/icon-facebook.svg"
+                alt="fb"
+              />&nbsp;</a
+            >
+            <a href="https://www.instagram.com/" target="_blank"
+              ><img
+                src="../assets/footerIMG/icon-instagram.svg"
+                alt="insta"
+              />&nbsp;</a
+            ><a href="https://www.linkedin.com/" target="_blank"
+              ><img src="../assets/footerIMG/icon-linkedin.svg" alt="lin"
+            /></a>
+            &nbsp;<a href="https://www.youtube.com/" target="_blank"
+              ><img src="../assets/footerIMG/icon-youtube.svg" alt="you"
+            /></a>
+          </li>
+          <li></li>
+        </ul>
+
+        <ul>
+          <li>
+            <a href="https://www.apple.com/app-store/" target="_blank"
+              ><img src="../assets/footerIMG/App Store.svg" alt="appStore"
+            /></a>
+          </li>
+          <li class="socialMedia">
+            <a href="https://play.google.com/store" target="_blank"
+              ><img src="../assets/footerIMG/Google Play.svg" alt="googlePlay"
+            /></a>
+          </li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>

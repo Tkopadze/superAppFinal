@@ -1,0 +1,2038 @@
+[
+    {
+        "title": "HIPP - ჰიპი",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 1,
+        "age": "0-3 თვე"
+    },
+    {
+        "title": "Humana - ჰუმანა",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 2
+    },
+    {
+        "title": "Heinz - ჰეინცი",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 3,
+        "age": "3-6 თვე"
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 4,
+        "age": "6-9 თვე"
+    },
+    {
+        "title": "Nestle - ნესტლე",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 5
+    },
+    {
+        "title": "BabyBio - ბეიბიბიო",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 6,
+        "age": "9-12 თვე"
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 7
+    },
+    {
+        "title": "Plasmon - პლასმონი",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 8
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 9
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 15 - 30 მლ.",
+        "volume": "15 - 30 მლ",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 10
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 4.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 11
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 4.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 12
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 75 - 100 მლ",
+        "volume": "75 - 100 მლ",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 13
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 14
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 15
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 300 - 500 მლ.",
+        "volume": "300 - 500 მლ.",
+        "price": 72.0,
+        "rating": 3.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 16,
+        "age": "1-3 წელი"
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 17
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 18
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 100 - 300 მლ.",
+        "volume": "100 - 300 მლ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 19,
+        "age": "3-5 წელი"
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 3.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 20
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 21
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 500 - 1000 მლ.",
+        "volume": "500 - 1000 მლ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 22
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 23
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 2.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 24
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 25
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 2.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 26
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 27
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 28
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 2.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 29
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 30
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 31
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 1.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 32
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 33
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 34
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 1.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 35
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 36
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 37
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 38
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 39
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 40
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 41
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 42
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 43
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 44
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 45
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 46
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 47
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 48
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 49
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 50
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 51
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 52
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 53
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 54
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 55
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 56
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 57
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 58
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 59
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 60
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 61
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 62
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 63
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 64
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 65
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 66
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 67
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 68
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 69
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 70
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 71
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 72
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 73
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 74
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 75
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 76
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 77
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 78
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 79
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 80
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 81
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 82
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 83
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 84
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 85
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 86
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 87
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 88
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 89
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 90
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 91
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 92
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 93
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 94
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 95
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 96
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 97
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 98
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 99
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 100
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 101
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 102
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 103
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 104
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 105
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 106
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 107
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 108
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 109
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 110
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 111
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 112
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 113
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 114
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 115
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 116
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 117
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 118
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 119
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 120
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 121
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 122
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 123
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 124
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 125
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 126
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 127
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 128
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 129
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 130
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 131
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 132
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 133
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 134
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 135
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 136
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 137
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 138
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 139
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 140
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 141
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 142
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 143
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 144
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 145
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 146
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 147
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 148
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 149
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 150
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 151
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 152
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 153
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 154
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 155
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 156
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 157
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 158
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 159
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 160
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 161
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 162
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 163
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 164
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 165
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 166
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 167
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 168
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 169
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 170
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 171
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 172
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 173
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 174
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 175
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 176
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 177
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 178
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 179
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 180
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 181
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 182
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 183
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 184
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 185
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 186
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 187
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 188
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 189
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 190
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 191
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 192
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 193
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 194
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 195
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 196
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 197
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 198
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 199
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 200
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 201
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 202
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 203
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 204
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 205
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 206
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 207
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 208
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 209
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 210
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 211
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 212
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 213
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 214
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 215
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 216
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 217
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 218
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 219
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 220
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 221
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 222
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 223
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 224
+    },
+    {
+        "title": "Similac",
+        "image": "../assets/nutrition/similac.svg",
+        "description": "სიმილაკი გოლდი 1, 800 გ.",
+        "price": 72.0,
+        "rating": 5.0,
+        "button_text": "პროდუქტის დამატება",
+        "id": 225
+    }
+]

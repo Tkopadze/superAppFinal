@@ -1,0 +1,20 @@
+[
+  {
+    "imageURL": "assets/productPageImg/Image Placeholder (6).png",
+    "name": "Dermedic",
+    "desc": "საბავშვო მზისგან დამცავი რძე SPF50 100მლ",
+    "price": "43.50 ₾"
+  },
+  {
+    "imageURL": "assets/productPageImg/Image Placeholder (7).png",
+    "name": "Carter’s",
+    "desc": "ქუდი მარწყვის პრინტით, ორმხრივი, გოგო, 12-24თვ",
+    "price": "28.00 ₾"
+  },
+  {
+    "imageURL": "assets/productPageImg/Image Placeholder (8).png",
+    "name": "Suavinex",
+    "desc": "საბავშვო,მზისგან დამცავი სათვალე ჩასადებით, 24-36 თვ",
+    "price": "65.00 ₾"
+  }
+]

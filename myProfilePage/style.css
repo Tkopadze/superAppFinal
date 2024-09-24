@@ -1,0 +1,166 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.profile-list {
+  margin: 20px;
+}
+
+.profile-item {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: flex-start;
+  margin-bottom: 10px;
+  gap: 16px;
+}
+
+.column {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+#profile-photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+#logout-button {
+  padding: 5px 10px;
+
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: white;
+  width: Fill (242px) px;
+  height: Hug (45px) px;
+  padding: 10px 0px 0px 0px;
+  gap: 10px;
+  opacity: 0px;
+}
+
+#my-orders-btn {
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#my-orders-btn.bold {
+  font-weight: bold;
+}
+
+.order-block {
+  padding: 15px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.card-placeholder {
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ddd;
+}
+.aside {
+  width: 20%;
+}
+.mainAsideContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.order-info {
+  display: flex;
+  padding: 10px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  border: 2px solid #efefef;
+  border-radius: 10px;
+}
+.order-info-content {
+  gap: 20px;
+  display: flex;
+  flex-direction: row;
+}
+main {
+  width: 80% !important;
+  display: flex;
+  flex-direction: column;
+}
+
+#main-content {
+  width: 100%;
+  gap: 32px;
+  display: flex;
+  gap: 32px;
+  flex-direction: column;
+  align-items: center;
+}
+.order-info-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.pages {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+}
+.clicked {
+  background-color: #008bff;
+  color: white;
+  border-radius: 10px;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-card-btn {
+  background-color: #008bff;
+  color: white;
+  border-radius: 10px;
+  width: 252px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+}
+.cards img {
+  width: 306px;
+  height: 214px;
+}
+
+.cardsWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.cardsWrapper .cards {
+  display: flex;
+  gap: 20px;
+}
+.tag-icon img {
+  width: 24px;
+  height: 24px;
+}
+.tag-icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5px;
+}
+.card-Wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

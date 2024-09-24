@@ -1,0 +1,780 @@
+@font-face {
+  font-family: "Firago";
+  src: url(../fonts/FiraGO-Regular.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "firago";
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  display: flex;
+  margin: 0 6.25rem;
+}
+
+/* ყველაფერი შენი სახლისთვის */
+
+.lastCard {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 32px;
+}
+.cardEnd3 {
+  margin-top: 40px;
+}
+.card2Section {
+  background-color: var(--card-container-background-color);
+  height: auto;
+  /* width: 100%; */
+  /* width: 1240px; */
+  /* padding: 0 8%; */
+  margin: 40px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+#cards2-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card2 {
+  /* width: 200px; */
+  /* height: 414px; */
+  /* margin-bottom: 20px; */
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 295px;
+  height: 395px;
+  border-radius: 8px;
+  border: 1.5px solid #efefef;
+  display: block;
+  position: relative;
+}
+
+.cardIMg {
+  width: 295px;
+  height: 218px;
+  /* width: 255px;
+  height: 192px; */
+}
+#arrowOne {
+  display: inline-block;
+  position: absolute;
+  top: 12px;
+  right: 12px;
+}
+.arrowW {
+  display: inline-block;
+  position: absolute;
+  top: 181px;
+  left: 12px;
+}
+.textFully {
+  font-size: 14px;
+  text-decoration: underline;
+  color: #363939;
+}
+
+.titleDesk {
+  color: #717d96;
+  font-size: 14px;
+  padding: 0 0 12px 12px;
+}
+.titleDesk2 {
+  color: #717d96;
+  font-size: 14px;
+  padding: 0 0 12px 12px;
+}
+
+.priceText {
+  font-size: 20px;
+  font-weight: 700;
+  color: #2d3648;
+  padding-left: 12px;
+}
+.cartButton {
+  background-color: #008bff;
+  border-radius: 5px;
+  border: 2px solid #008bff;
+  padding: 10px 35px;
+  color: white;
+  margin: 12px 0 12px 12px;
+  width: 93%;
+  height: 40px;
+  font-size: 12px;
+  font-weight: 700;
+}
+.allHomeName {
+  padding: 12px 0 12px 12px;
+  font-size: 20px;
+  color: #2d3648;
+}
+.allHomeStartPr {
+  font-size: 16px;
+  color: #616161;
+  text-decoration: line-through;
+}
+.allHomeDisc {
+  color: white;
+  border-radius: 30px;
+  padding: 6px;
+  background: #ff3333;
+}
+.mobButton {
+  display: none;
+}
+
+/* ყველაფერი შენი სახლისთვის */
+
+#cards3-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card3 {
+  /* width: 200px; */
+  /* height: 414px; */
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 295px;
+  height: 395px;
+  border-radius: 8px;
+  border: 1.5px solid #efefef;
+  display: block;
+  position: relative;
+}
+
+/* ყველაფერი შენი სახლისთვის */
+
+#cards4-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card4 {
+  /* width: 200px; */
+  /* height: 414px; */
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 295px;
+  height: 407px;
+  border-radius: 8px;
+  border: 1.5px solid #efefef;
+  display: block;
+  position: relative;
+}
+
+/* end */
+
+@media (max-width: 780px) {
+  body {
+    margin: 0;
+  }
+}
+
+/* aside */
+
+aside {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 270px;
+  color: #000000;
+}
+
+aside h1 {
+  font-family: FiraGO;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  color: #000000;
+}
+
+aside h2 {
+  font-family: FiraGO;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  cursor: pointer;
+  color: #000000;
+}
+
+aside h2 a {
+  font-family: FiraGO;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  cursor: pointer;
+  color: #000000;
+}
+
+@media (max-width: 1200px) {
+  aside {
+    display: none;
+  }
+}
+
+/* main */
+main {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+/* bike */
+
+.bike {
+  display: flex;
+  margin-top: 40px;
+  background-color: #e6f3ff;
+  width: 57.875rem;
+  height: 341px;
+  border-radius: 10px;
+}
+
+.bike-img {
+  width: 50%;
+  background-image: url("https://s3-alpha-sig.figma.com/img/cd1d/cc92/a25cbc9f51d22fa61bc9e2f04a5a2274?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=a4lINlaTi3FtBI~5x9fQMgh9RoiFPZTW0PNHNBdFh8KYEMZeftd0GwuMR3pEzWqW0eLwkVHnDI79mvah-OR0HzCuwpmSYxCFcduk0xnG7wDviD-q9bTOinzGezB2YRz4nLY90ImzlfUsc-hneuvWvFBoqNtwyycYk3Z9ldxG7fRRB7m8eTT22E386CVYeL3WI6t1Vxy90NIHPePLlcg5wPh3DqP-9aBJQT5PqhkICbsRdSE5tOjm1D2iIPn4WkZDxYgkh6GrDO2BZNdAPE3XV0XCpGWDYDGOtQXr973xHJ~vr1D9~4K3IgZ14pvwnh~gWbN~gsalm7XeI7jLNMuWvw__");
+  background-position: 41.5% 61.5%;
+  /* Move the image slightly up and to the left */
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 390px;
+  height: 278px;
+  margin-top: 31px;
+  margin-right: 37px;
+}
+
+.bike-info {
+  padding: 20px 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.bike-info a {
+  display: flex;
+  text-decoration: none;
+  height: 40px;
+  width: 17rem;
+  justify-content: space-between;
+  padding: 0 2.3rem;
+  align-items: center;
+  border: 1px solid #008bff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.bike-info a h3 {
+  font-family: FiraGO;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 22.4px;
+  color: #008bff;
+}
+
+.bike-info h1 {
+  width: 428px;
+  height: 68px;
+  font-family: FiraGO;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 33.6px;
+  color: #002a4c;
+}
+
+@media (max-width: 1200px) {
+  .bike {
+    width: 39rem;
+  }
+
+  .bike-info {
+    padding: 1rem;
+    justify-content: space-between;
+  }
+
+  .bike-info a {
+    width: 14.563rem;
+    height: 36px;
+    padding: 0 1rem;
+  }
+}
+
+@media (max-width: 780px) {
+  .bike {
+    width: 21.438rem;
+    height: 225px;
+    position: relative;
+  }
+
+  .bike-info {
+    padding: 1rem;
+    justify-content: space-between;
+  }
+
+  .bike-info h1 {
+    width: 14rem;
+    height: 34px;
+    font-size: 12px;
+    font-family: FiraGO;
+    line-height: 16.8px;
+  }
+
+  .bike-info a {
+    width: 9.563rem;
+    height: 32px;
+    padding: 0 0.5rem;
+  }
+
+  .bike-info a h3 {
+    width: 6.3rem;
+    height: 14px;
+    font-size: 10px;
+    line-height: 14px;
+  }
+  .bike-info img {
+    width: 15.33px;
+    height: 14.67px;
+  }
+
+  .bike-img {
+    position: absolute;
+    width: 186px;
+    height: 178px;
+    top: 12px;
+    left: 158px;
+    margin-right: 0;
+  }
+}
+
+/* popular brands */
+
+/* popular-brands */
+.popularBrands {
+  height: 445px;
+  max-width: 100%;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.popularBrands h1 {
+  width: 19rem;
+  height: 34px;
+  font-family: FiraGO;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 33.6px;
+  color: #000000;
+}
+
+.Brands {
+  width: 100%;
+  display: flex;
+  gap: 1rem;
+  height: 479px;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.Suavinex {
+  height: 479px;
+  background-color: #e7d1ee;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Suavinex-img img {
+  object-fit: contain;
+  height: 375px;
+}
+
+.similarPopular {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.Twistshake {
+  height: 229px;
+  background-color: #ffe393;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Twistshake-img img {
+  object-fit: contain;
+  height: 141px;
+}
+
+.Parsa {
+  height: 230px;
+  background-color: #d8e4c2;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 25px;
+}
+
+.Parsa-img img {
+  object-fit: contain;
+  height: 126px;
+}
+
+.Brand-arrow {
+  width: 54px;
+  height: 36px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.Brand-info {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+  height: 56px;
+}
+
+.Brand-info p {
+  font-family: FiraGO;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 31.2px;
+  color: #363939;
+}
+
+@media (max-width: 1200px) {
+}
+
+@media (max-width: 1200px) {
+  .popularBrands {
+    max-width: 100%;
+    height: 229px;
+    margin-bottom: 120px;
+  }
+
+  .popularBrands h1 {
+    font-size: 12px;
+  }
+
+  .similarPopular {
+    gap: 10px;
+  }
+  .Brands {
+    margin-bottom: 10px;
+  }
+
+  .Brand-info {
+    height: auto;
+  }
+
+  .Brand-info p {
+    font-family: FiraGO;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15.6px;
+    width: 29px;
+    height: 16px;
+    color: #363939;
+  }
+
+  .Brand-arrow {
+    width: 20px;
+    height: 20px;
+  }
+
+  .Brand-arrow img {
+    width: 13.33px;
+    height: 13.33px;
+    top: 3.33px;
+    left: 3.33px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .Suavinex {
+    padding-top: 40px;
+    height: 270px;
+  }
+
+  .Suavinex-img img {
+    height: 152px;
+  }
+
+  .Twistshake {
+    height: 135px;
+    padding-top: 15px;
+  }
+
+  .Twistshake-img img {
+    height: 64px;
+  }
+
+  .Parsa {
+    height: 125px;
+    padding-top: 15px;
+  }
+
+  .Parsa-img img {
+    height: 70px;
+  }
+}
+
+@media (max-width: 780px) {
+  .popularBrands {
+    /* width: 21.438rem; */
+    width: 343x;
+    height: 229px;
+    margin-bottom: 120px;
+  }
+}
+
+/* cards responsive */
+@media (max-width: 780px) {
+  main {
+    margin: 0 1.5rem;
+  }
+  .card2 {
+    width: 32.2%;
+  }
+  .cardIMg {
+    width: 235px;
+    height: 177px;
+  }
+  .allHomeName {
+    padding-top: 40px;
+  }
+  .titleDesk {
+    padding: 15px 0 15px 12px;
+  }
+  /* Second - cards */
+  .card3 {
+    width: 32.2%;
+  }
+  .titleDesk2 {
+    font-size: 12px;
+    padding: 15px 0 15px 12px;
+  }
+  /* Third cards */
+  .card4 {
+    width: 32.2%;
+  }
+}
+
+@media (max-width: 425px) {
+  main {
+    margin: 0 1rem;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .card2WrapperTitle {
+    font-size: 12px;
+    font-weight: 600;
+  }
+  .lastCard {
+    margin-bottom: 12px;
+  }
+  /* card1 */
+  .card2Section {
+    flex-direction: column;
+    display: flex;
+    overflow-x: scroll; /* Allows horizontal scrolling */
+    scroll-snap-type: x mandatory; /* Optional for snapping effect */
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+    /* width: 100%; */
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For Internet Explorer and Edge */
+    margin: 16px 0;
+  }
+
+  #cards2-container {
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    /* Ensure cards stay in one line */
+    overflow-x: auto;
+    /* Enable horizontal scrolling */
+    overflow-y: hidden;
+    /* Disable vertical scrolling */
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    /* Hide scrollbar for Firefox */
+  }
+  .card2 {
+    width: 160px;
+    /* height: 279px; */
+    height: auto;
+    margin-right: 12px;
+  }
+
+  .cardIMg {
+    width: 160px;
+    height: 120px;
+    /* height: 139.5px; */
+  }
+  .allHomeName {
+    color: #2d3648;
+    font-size: 12px;
+    line-height: 14px;
+    padding: 12.5px 0 12px 12px;
+    font-weight: 600;
+  }
+
+  .textFully {
+    font-size: 12px;
+    color: #606060;
+    font-weight: 600;
+  }
+
+  .priceText {
+    font-size: 12px;
+    /* padding: 0; */
+  }
+  .priceText2 {
+    padding: 0;
+  }
+  .priceAndDisc {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 12px;
+  }
+
+  .allHomeStartPr {
+    font-size: 10px;
+  }
+  .allHomeDisc {
+    font-size: 10px;
+    color: white;
+    border-radius: 15px;
+    padding: 4px 2px;
+  }
+  .titleDesk {
+    font-size: 10px;
+    padding-bottom: 12px;
+  }
+  .titleDesk2 {
+    font-size: 11px;
+    padding-bottom: 12px;
+  }
+  #arrowOne {
+    top: 6px;
+    right: 6px;
+    width: 24px;
+  }
+  .arrowW {
+    position: absolute;
+    top: 108px;
+    width: 2rem;
+  }
+  .cartButton {
+    display: none;
+  }
+  .mobButton {
+    display: inline;
+    width: 87%;
+    font-size: 12px;
+    height: 32px;
+    background-color: #008bff;
+    border-radius: 5px;
+    border: 2px solid #008bff;
+    /* padding: 10px 35px; */
+    color: white;
+    margin: 12px 0 12px 12px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* card2 */
+
+  #cards3-container {
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    /* Ensure cards stay in one line */
+    overflow-x: auto;
+    /* Enable horizontal scrolling */
+    overflow-y: hidden;
+    /* Disable vertical scrolling */
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    /* Hide scrollbar for Firefox */
+    margin-top: 0;
+  }
+  .card3 {
+    width: 160px;
+    /* height: 279px; */
+    height: auto;
+    margin-right: 12px;
+  }
+
+  /* card3*/
+
+  #cards4-container {
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    /* Ensure cards stay in one line */
+    overflow-x: auto;
+    /* Enable horizontal scrolling */
+    overflow-y: hidden;
+    /* Disable vertical scrolling */
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    /* Hide scrollbar for Firefox */
+    margin-top: 0;
+  }
+  .card4 {
+    width: 160px;
+    /* height: 279px; */
+    height: auto;
+    margin-right: 12px;
+  }
+}

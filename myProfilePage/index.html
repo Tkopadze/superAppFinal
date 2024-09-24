@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+     <link rel="stylesheet" href="../styles.css">
+    <!-- <script src="app.js" defer></script> -->
+    <script src="profile.js" defer></script>
+    <title>Super App</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="header-top">
+        <a href="../index.html" class="header-logo">ShopEasy</a>
+        <div class="search-container">
+          <input type="text" placeholder="ძიება" />
+          <img
+            src=".././assets/icons/searchIcon.svg"
+            alt="Search Icon"
+            class="search-icon"
+          />
+        </div>
+        <div class="bag-container" id="basket-link" >
+          <img src="../assets/icons/icon-shopping-cart.svg" alt="Shopping Bag" />
+          <div class="notification-badge">5</div>
+        </div>
+        <div class="favorites-container">
+          <a href="#">
+            <img src="../assets/icons/favourites.svg" alt="Favorites" id="favourite-link"/>
+          </a>
+        </div>
+        <button class="button auth-button" id="open-popup-btn">ჩემი პროფილი</button>
+      </div>
+      <div class="categories-section">
+        <div class="burger-menu-container">
+          <button class="burger-menu" id="burgerMenuBtn">
+            <a href="../allCategories/index.html">
+              <img src="../assets/icons/burgerIcon.svg" alt="burger menu" />
+            </a>
+          </button>
+          <span class="all-categories-text">ყველა კატეგორია</span>
+        </div>
+        <button class="slider-nav left" id="left-arrow">
+          <img src=".././assets/icons/leftVector.svg" alt="left arrow" />
+        </button>
+        <div class="categories-slider" id="categories-slider">
+          <div class="categories-container">
+            <ul class="categories-list">
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">ფასდაკლება</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">ტექნიკა</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">ბავშვის მოვლა</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">სახლი & მოვლა</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">თავის მოვლა</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">სათამაშოები</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">ფიტნესი</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">ტექნიკა</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">ბავშვის მოვლა</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">სახლი & მოვლა</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">თავის მოვლა</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">სათამაშოები</a>
+              </li>
+              <li class="category-item">
+                <a href="../Children's nutrition2/index.html">ფიტნესი</a>
+              </li>
+            </ul>
+          </div>
+          <button class="slider-nav right" id="right-arrow">
+            <img src=".././assets/icons/rightVector.svg" alt="right arrow" />
+          </button>
+        </div>
+      </div>
+    </header>
+    <hr class="headerLine" />
+    <div class="overlay" id="overlay">
+      <div class="overlay-content">
+        <nav class="overlay-part1">
+          <div class="category-container" id="category-container"></div>
+        </nav>
+        <nav class="overlay-part2">
+          <ul>
+            <li>
+              <a href="./productsPage/products.html" target="_blank"
+                >ბავშვის მოვლა
+              </a>
+            </li>
+            <li>
+              <a href="./productsPage/products.html" target="_blank"
+                >ბავშვის კვება
+              </a>
+            </li>
+            <li>
+              <a href="./productsPage/products.html" target="_blank"
+                >საბავშვო ინვენტარი
+              </a>
+            </li>
+            <li>
+              <a href="./productsPage/products.html" target="_blank"
+                >ბავშვის ტანსაცმელი
+              </a>
+            </li>
+
+            <li>
+              <a href="./productsPage/products.html" target="_blank"
+                >აქსესუარები</a
+              >
+            </li>
+            <li>
+              <a href="./productsPage/products.html" target="_blank"
+                >ბავშვის ჰიგიენა
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <button class="close-btn" id="closeBtn">
+          <img src=".././assets/Buttoncloseblue.svg" alt="blue button" />
+        </button>
+      </div>
+    </div>
+   <div class="mainAsideContainer">
+    <aside>
+      <div class="profile-list">
+          <div class="profile-item">
+              <a class="column">
+                  <img src="../assets/img/Ellipse 387.svg" alt="Profile Photo" id="profile-photo">
+                  <span class="greeting">გამარჯობა</span>
+                  <span class="username" id="username"></span>
+              </a>
+              <a class="column" id="my-orders">
+                  <img src="../assets/img/Shape (5).svg" alt="Profile Photo">
+                  <span class="greeting">ჩემი შეკვეთები</span>
+              </a>
+              <a class="column" id="my-cards">
+                  <img src="../assets/img/Shape (6).svg" alt="Profile Photo">
+                  <span class="cards">ჩემი ბარათები</span>
+              </a>
+              <a class="column" id="my-messages">
+                  <img src="../assets/img/Shape (7).svg" alt="Profile Photo">
+                  <span class="messages">შეტყობინებები</span>
+              </a>
+              <a class="column" id="my-address">
+                  <img src="../assets/img/Shape (8).svg" alt="Profile Photo">
+                  <span class="adresses">მისამართები</span>
+              </a>
+              <a class="column" id="my-settings">
+                  <img src="../assets/img/Shape (9).svg" alt="Profile Photo">
+                  <span class="settings">პარამეტრები</span>
+              </a>
+              <a class="column ">
+                <img src="../assets/img/Shape (10).svg" alt="logoutphoto" class="logoutIcon">
+                <span id="logout-button">გასვლა</span>
+
+                </a>
+          </div>
+      </div>
+  </aside>
+        <main>
+          <div id="main-content"></div>
+    </main>
+  </div>
+    <hr class="line" />
+    <footer>
+      <div class="landingfooter">
+        <ul>
+          <li>დახმარება</li>
+          <li><a href="">მესიჯის მიწერა</a></li>
+          <li><a href="">შეფასება</a></li>
+          <li><a href="">ხშირად დასმული კითხვები</a></li>
+          <li><a href="">განვადებით შეძენა</a></li>
+          <li><a href="">მისამართები</a></li>
+        </ul>
+
+        <ul>
+          <li>წესები & პირობები</li>
+          <li><a href="">ვერიფიკაცია</a></li>
+          <li><a href="">კონფიდენციალურობა</a></li>
+          <li><a href="">უსაფრთხოების წესები</a></li>
+          <li><a href="">საიტის წესები</a></li>
+        </ul>
+
+        <ul>
+          <li>ჩვენს შესახებ</li>
+          <li><a href="">ვინ ვართ ჩვენ</a></li>
+          <li><a href="">ბლოგი</a></li>
+          <li><a href="">გაყიდე ჩვენთან</a></li>
+        </ul>
+
+        <ul>
+          <li>დაგვიკავშირდი</li>
+          <li>
+            <a href="tel:+406555-0120"
+              ><img
+                src=".././assets/footerIMG/Vector.svg"
+                alt="phone"
+              />&nbsp;&nbsp;(406) 555-0120</a
+            >
+          </li>
+          <li>
+            <a href="mailto:support@shopeasy.com"
+              ><img
+                src=".././assets/footerIMG/Group.svg"
+                alt="mail"
+              />&nbsp;&nbsp;support@shopeasy.com</a
+            >
+          </li>
+          <li class="contactIcon">
+            <a href="https://www.facebook.com/" target="_blank"
+              ><img
+                src=".././assets/footerIMG/icon-facebook.svg"
+                alt="fb"
+              />&nbsp;</a
+            >
+            <a href="https://www.instagram.com/" target="_blank"
+              ><img
+                src=".././assets/footerIMG/icon-instagram.svg"
+                alt="insta"
+              />&nbsp;</a
+            ><a href="https://www.linkedin.com/" target="_blank"
+              ><img src=".././assets/footerIMG/icon-linkedin.svg" alt="lin"
+            /></a>
+            &nbsp;<a href="https://www.youtube.com/" target="_blank"
+              ><img src=".././assets/footerIMG/icon-youtube.svg" alt="you"
+            /></a>
+          </li>
+          <li></li>
+        </ul>
+
+        <ul>
+          <li>
+            <a href="https://www.apple.com/app-store/" target="_blank"
+              ><img src=".././assets/footerIMG/App Store.svg" alt="appStore"
+            /></a>
+          </li>
+          <li class="socialMedia">
+            <a href="https://play.google.com/store" target="_blank"
+              ><img src=".././assets/footerIMG/Google Play.svg" alt="googlePlay"
+            /></a>
+          </li>
+        </ul>
+      </div>
+      <div class="accordion">
+        <div class="accordion-header">
+          <span class="accordion-title">დახმარება</span>
+          <img
+            src=".././assets/img/icon-chevron-down.svg"
+            alt="icon-chevron-down"
+            class="footerIconMob"
+          />
+        </div>
+        <div class="accordion-content">
+          <ul>
+            <li><a href="">მესიჯის მიწერა</a></li>
+            <li><a href="">შეფასება</a></li>
+            <li><a href="">ხშირად დასმული კითხვები</a></li>
+            <li><a href="">განვადებით შეძენა</a></li>
+            <li><a href="">მისამართები</a></li>
+          </ul>
+        </div>
+        <hr class="lineMobile" />
+        <div class="accordion-header">
+          <span class="accordion-title">წესები & პირობები</span>
+          <img
+            src=".././assets/img/icon-chevron-down.svg"
+            alt="icon-chevron-down"
+            class="footerIconMob"
+          />
+        </div>
+        <div class="accordion-content">
+          <ul>
+            <li><a href="">ვერიფიკაცია</a></li>
+            <li><a href="">კონფიდენციალურობა</a></li>
+            <li><a href="">უსაფრთხოების წესები</a></li>
+            <li><a href="">საიტის წესები</a></li>
+          </ul>
+        </div>
+        <hr class="lineMobile" />
+        <div class="accordion-header">
+          <span class="accordion-title">ჩვენს შესახებ</span>
+          <img
+            src=".././assets/img/icon-chevron-down.svg"
+            alt="icon-chevron-down"
+            class="footerIconMob"
+          />
+        </div>
+        <div class="accordion-content">
+          <ul>
+            <li><a href="">ვინ ვართ ჩვენ</a></li>
+            <li><a href="">ბლოგი</a></li>
+            <li><a href="">გაყიდე ჩვენთან</a></li>
+          </ul>
+        </div>
+        <hr class="lineMobile" />
+        <div class="accordion-header">
+          <span class="accordion-title">დაგვიკავშირდი</span>
+          <img
+            src=".././assets/img/icon-chevron-down.svg"
+            alt="icon-chevron-down"
+            class="footerIconMob"
+          />
+        </div>
+        <div class="accordion-content contactUsImg">
+          <ul>
+            <li>
+              <a href="tel:+406555-0120"
+                ><img
+                  src=".././assets/footerIMG/Vector.svg"
+                  alt="phone"
+                />&nbsp;(406) 555-0120</a
+              >
+            </li>
+            <li>
+              <a href="mailto:support@shopeasy.com"
+                ><img
+                  src=".././assets/footerIMG/Group.svg"
+                  alt="mail"
+                />&nbsp;support@shopeasy.com</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <hr class="lineMobile" />
+
+      <div class="mobileContainer">
+        <div class="mobileIcon contactIcon">
+          <a href="https://www.facebook.com/" target="_blank"
+            ><img
+              src=".././assets/footerIMG/icon-facebook.svg"
+              alt="facebook"
+            />&nbsp;</a
+          >
+          <a href="https://www.instagram.com/" target="_blank"
+            ><img
+              src=".././assets/footerIMG/icon-instagram.svg"
+              alt="instagram"
+            />&nbsp;</a
+          ><a href="https://www.linkedin.com/" target="_blank"
+            ><img src=".././assets/footerIMG/icon-linkedin.svg" alt="linkedin"
+          /></a>
+          &nbsp;<a href="https://www.youtube.com/" target="_blank"
+            ><img src=".././assets/footerIMG/icon-youtube.svg" alt="youtube"
+          /></a>
+        </div>
+        <ul>
+          <li>
+            <a href="https://www.apple.com/app-store/" target="_blank"
+              ><img src=".././assets/footerIMG/App Store.svg" alt="appStore"
+            /></a>
+          </li>
+          <li>
+            <a href="https://play.google.com/store" target="_blank"
+              ><img src=".././assets/footerIMG/Google Play.svg" alt="googlePlay"
+            /></a>
+          </li>
+        </ul>
+      </div>
+    </footer>
+    <hr class="footerLine" />
+    <div class="footerNavMenu">
+      <a href="index.html" class="home icon"
+        ><img src=".././assets/home (2).svg" alt="home" />
+        <p>მთავარი</p></a
+      >
+      <a href="index.html" class="chart icon"
+        ><img src=".././assets/icon-shopping-cart (2).svg" alt="cahrt" />
+        <p>კალათა</p></a
+      >
+      <a href="index.html" class="favourites icon"
+        ><img src=".././assets/icon-heart.svg" alt="favourite" />
+        <p>ფავორიტები</p></a
+      >
+      <a href="./authPage/auth.html" id="open-popup-link" class="profile icon"
+        ><img src=".././assets/icon-user (1).svg" alt="profile" />
+        <p>პროფილი</p></a
+      >
+    </div>
+    <div class="popup-overlay authReg" id="popup-overlay">
+      <div class="popup-content" id="popup-content">
+        <div class="popup-header">
+          <h2  id="popup-header-text">გაიარეთ ავტორიზაცია</h2>
+          <span class="close-popup" id="close-popup">
+            <img src=".././assets/closeBtn.svg" alt="closeBtn" />
+          </span>
+        </div>
+        <div class="auth-buttons">
+          <button id="auth-btn">ავტორიზაცია</button>
+          <button id="reg-btn">რეგისტრაცია</button>
+        </div>
+        <div id="auth-form" class="hidden">
+          <input
+            type="text"
+            placeholder="მეილი/ტელ.ნომერი"
+            id="loginInput"
+            required
+          />
+         
+          <div id="errorMessage" style="color: red; display: none">
+            <img class="errorImg" src="../assets/" alt="" />
+            <p class="errorMessage">მეილი/ ტელ.ნომერი არასწორია</p>
+          </div>
+          <input
+            type="password"
+            placeholder="პაროლი"
+            id="loginPassword"
+            required
+          />
+          <div class="error" id="passwordError">
+            <img class="errorImg" src=".././assets/error.svg" alt="" />
+            <p class="errorMessage">პაროლი არასწორია</p>
+          </div>
+          <img src=".././assets/icon-eye (1).svg" class="eye" alt="eye" />
+          <a class="forgot-password" id="forgot-password">დაგავიწყდა პაროლი?</a>
+          <button class="login" id="submit" type="submit">ჩემი პროფილი</button>
+          <div class="or">
+            <hr />
+            <p>Or:</p>
+            <hr />
+          </div>
+          <div class="social-auth">
+            <a class="facebook" id="facebook">
+              <img src=".././assets/image 1 (2).svg" alt="" />
+              <img src=".././assets/Facebook -ით შესვლა (1).svg" alt="" />
+            </a>
+            <a class="google" id="google">
+              <img src=".././assets/image 2.svg" alt="" />
+              <img src=".././assets/Google -ით შესვლა.svg" alt="" />
+            </a>
+          </div>
+        </div>
+        <div id="reg-form" class="hidden">
+          <div class="column">
+            <input
+              type="text"
+              placeholder="სახელი,გვარი"
+              id="fullName"
+              required
+            />
+            <input type="text" placeholder="მეილი" id="email" required />
+            <input
+              type="text"
+              placeholder="ტელეფონის ნომერი"
+              id="phoneNumber"
+              required
+            />
+          </div>
+          <div class="row">
+            <input type="text" placeholder="პაროლი" id="password" required />
+            <input
+              type="password"
+              placeholder="გაიმეორეთ პაროლი"
+              id="confirmPassword"
+              required
+            />
+          </div>
+          <p class="terms">
+            რეგისტრაციის ღილაკზე დაჭერით ეთანხმებით
+            <a href="#">წესებს და პირობებს</a>.
+          </p>
+          <button type="submit" id="register">რეგისტრაცია</button>
+          <div id="reg-errorMessage" style="color: red; display: none"></div>
+        </div>
+      </div>
+    </div>
+    <div id="recaptcha-container" class="hidden" ></div>
+    <div  class="popup-overlay Password" id="forgot-password-popup">
+      <div id="password-reset-form" class="popup-content">
+        <a class="go-back"  id="back-to-login"><img src=".././assets/chevron-leftblue.svg" alt=""><p class="back">უკან</p></a>
+        <h2>პაროლის აღდგენა
+        </h2>
+        <p>პაროლის აღსადგენად, გთხოვთ შეიყვანოთ რეგისტრირებული მეილი</p>
+        <input type="text" id="verification-input" placeholder="მეილი" required>
+        <div id="verification-error" class="error-message" style="display:none;"></div>
+        <button id="verification-submit">გაგზავნა</button>
+      </div>
+    </div>
+  
+    <!-- Popup Overlay for Entering Verification Code -->
+    <div id="verification-popup" class="popup-overlay">
+      <div id="verification-form" class="popup-content">
+        <a class="go-back" id="back-to-forgot"><img src=".././assets/chevron-left.svg" alt=""><a class="back">უკან</a></a>
+        <h2>Enter Verification Code</h2>
+            <form id="verification-form">
+                <div class="verification-code-container">
+                    <input type="number" maxlength="1" class="verification-code-input" id="input-1">
+                    <input type="number" maxlength="1" class="verification-code-input" id="input-2">
+                    <input type="number" maxlength="1" class="verification-code-input" id="input-3">
+                    <input type="number" maxlength="1" class="verification-code-input" id="input-4">
+                    <input type="number" maxlength="1" class="verification-code-input" id="input-5">
+                </div>
+                <button type="submit">Submit</button>
+            </form>
+        <div id="verification-error" class="error-message" style="display:none;"></div>
+        <button id="verify-submit">Verify and Reset Password</button>
+      </div>
+    </div>
+  
+    <!-- Popup Overlay for Entering New Password -->
+    <div id="new-password-popup" class="popup-overlay">
+      <div id="new-password-form" class="popup-content">
+        <a class="go-back" id="back-to-verify"><img src=".././assets/chevron-left.svg" alt=""><a class="back">უკან</a></a>
+        <h2>Enter New Password</h2>
+        <p>Please enter and confirm your new password:</p>
+        <input type="password" id="new-password" placeholder="New Password" required>
+        <input type="password" id="confirm-password" placeholder="Confirm Password" required>
+        <div id="new-password-error" class="error-message" style="display:none;"></div>
+        <button id="new-password-submit">Change Password</button>
+      </div>
+    </div>
+  </div>
+  
+    <script type="module" src="../login.js"></script>
+    <script type="module" src="../register.js"></script>
+  </body>
+</html>

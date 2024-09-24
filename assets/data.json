@@ -1,0 +1,46 @@
+[
+  {
+    "photo": "./assets/icons/estederm.svg",
+    "stars": "./assets/icons/star.svg",
+    "starNumber": "5.0",
+    "name": "Esthederm",
+    "category": "ესტედერმი გასარუჯი ზეთი",
+    "endPrice": "78.50₾",
+    "startPrice": "157.00₾",
+    "discount": "-50%",
+    "buttonText": "კალათაში დამატება"
+  },
+  {
+    "photo": "./assets/icons/bag.svg",
+    "stars": "./assets/icons/star.svg",
+    "starNumber": "5.0",
+    "name": "SeaGrass",
+    "category": "ჩანთა",
+    "endPrice": "89.00₾",
+    "startPrice": "",
+    "discount": "",
+    "buttonText": "კალათაში დამატება"
+  },
+  {
+    "photo": "./assets/icons/izipizi.svg",
+    "stars": "./assets/icons/star.svg",
+    "starNumber": "5.0",
+    "name": "IZIPIZI",
+    "category": "სათვალე",
+    "endPrice": "120.00₾",
+    "startPrice": "",
+    "discount": "",
+    "buttonText": "კალათაში დამატება"
+  },
+  {
+    "photo": "./assets/icons/headPhones.svg",
+    "stars": "./assets/icons/star.svg",
+    "starNumber": " 5.0",
+    "name": "Apple AirPods  Wireless",
+    "category": "ყურსასმენები",
+    "endPrice": "1989.00₾",
+    "startPrice": "",
+    "discount": "",
+    "buttonText": "კალათაში დამატება"
+  }
+]

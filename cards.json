@@ -1,0 +1,32 @@
+[
+    {
+    "imageURL":"assets/stanly.png",
+    "name":"STANLEY 1913",
+    "desc":"THE QUENCHER -TUMBLER 1,2 L",
+    "price":"140.00 ₾",
+    "link":"#"
+    },
+    {
+        "imageURL":"assets/temp.png",
+       "name":"Fridababy თერმომეტრი",
+        "desc":"თერმომეტრი",
+        "price":"120.00 ₾",
+        "link":"#"
+    },
+    {
+        "imageURL":"assets/kindle.png",
+       "name":"Kindle Paperwhite",
+        "desc":"ქინდლი",
+        "price":"450.00 ₾",
+        "link":"#"
+    },
+    {
+        "imageURL":"assets/coffee.png",
+       "name":"Ninja CREAMi",
+        "desc":"Ninja NC301 CREAMi Ice Cream Maker",
+        "price":"600.00 ₾",
+        "link":"#"
+    }
+   
+]
+ 

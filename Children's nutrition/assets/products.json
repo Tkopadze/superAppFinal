@@ -1,0 +1,40 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "imageSrc": "./assets/image 3.svg",
+      "imageAlt": "ბავშვის კვება",
+      "text": "ბავშვის კვება"
+    },
+    {
+      "id": 2,
+      "imageSrc": "./assets/inventar.svg",
+      "imageAlt": "საბავშვო ინვენტარი",
+      "text": "საბავშვო ინვენტარი"
+    },
+    {
+      "id": 3,
+      "imageSrc": "./assets/image 3 (4).svg",
+      "imageAlt": "ბავშვის ტანსაცმელი",
+      "text": "ბავშვის ტანსაცმელი"
+    },
+    {
+      "id": 4,
+      "imageSrc": "./assets/image 3 (2).svg",
+      "imageAlt": "აქსესუარები",
+      "text": "აქსესუარები"
+    },
+    {
+      "id": 5,
+      "imageSrc": "./assets/image 3 (3).svg",
+      "imageAlt": "ბავშვის ჰიგიენა",
+      "text": "ბავშვის ჰიგიენა"
+    },
+    {
+      "id": 6,
+      "imageSrc": "./assets/vector (20).svg",
+      "imageAlt": "ფასდაკლება",
+      "text": "ფასდაკლება"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "imageURL": "assets/productPageImg/Image Placeholder (3).png",
+    "name": "Pampers",
+    "desc": "ბავშვის ტრუსი 4 ზომა,9-15 კგ,25 ცალი",
+    "price": "37.00 ₾"
+  },
+  {
+    "imageURL": "assets/productPageImg/Image Placeholder (4).png",
+    "name": "Huggies",
+    "desc": "სვ. ხელსახოცი საბავშვო ალოე",
+    "price": "8.75 ₾"
+  },
+  {
+    "imageURL": "assets/productPageImg/Image Placeholder (5).png",
+    "name": "CGerber",
+    "desc": "ფაფა რძიანი მოცვი. ჟოლო 180გრ",
+    "price": "11.90 ₾"
+  }
+]

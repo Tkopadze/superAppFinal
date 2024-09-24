@@ -1,0 +1,26 @@
+[
+  {
+    "imageURL": "assets/productPageImg/Image Placeholder.png",
+    "name": "Carter’s",
+    "desc": "ბოდე მოკლე მკლავით. გოგო.",
+    "price": "29.00 ₾",
+    "startPrice": "58.00 ₾",
+    "discount": "-50%"
+  },
+  {
+    "imageURL": "assets/productPageImg/Image Placeholder (1).png",
+    "name": "Carter’s",
+    "desc": "ნაკრები წინდა. ბიჭი.  12-24თვე",
+    "price": "34.00 ₾",
+    "startPrice": "68.00 ₾",
+    "discount": "-50%"
+  },
+  {
+    "imageURL": "assets/productPageImg/Image Placeholder (2).png",
+    "name": "Carter’s",
+    "desc": "ნაკრები კომბინიზონი",
+    "price": "69.00 ₾",
+    "startPrice": "138.00 ₾",
+    "discount": "-50%"
+  }
+]
